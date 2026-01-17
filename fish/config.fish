@@ -9,3 +9,4 @@ source /usr/share/cachyos-fish-config/cachyos-config.fish
 alias v=nvim
 alias y=yazi
 alias lg=lazygit
+set -gx EDITOR nvim
